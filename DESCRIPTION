@@ -1,0 +1,13 @@
+Package: kogo
+Type: Package
+Title: 2021 KOGO statistical genetics workshop pacakge
+Version: 0.2.1
+Author: Hokeun Sun 
+Depends: glmnet, gglasso, SGL, igraph, ALL, hgu95av2.db, graphite
+Maintainer: Hokeun Sun <hsun@pusan.ac.kr>
+Description: This package is for 2021 KOGO statistical genetics workshop (Session 12. Multi-omics data analysis, part 2). The package includes heart data and 27K DNA methylation ovarian cancer data.
+License: GPL-2
+LazyData: TRUE
+
+
+
