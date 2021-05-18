@@ -37,17 +37,17 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocMananer")
 BiocManager::install(c("ALL","hgu95av2.db","graphite"))
 
-## Install R package 'kogo'
+## Install a package 'kogo'
 install_github("statsun78/kogo")
 
-## Install R packages 'pclgot' 
+## Install a package 'pclgot' 
 install_github("statsun78/pclogit")
-
-### Load R packages
 ```
-### Load the two packages below. 
+
+### Load two packages 
 ``` 
 library(kogo)
 library(pclogit)
 ``` 
-### If there are no errors, you are all set.
+
+If there are _no errors_, you are all set.
