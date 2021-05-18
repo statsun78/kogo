@@ -41,7 +41,7 @@ BiocManager::install(c("ALL","hgu95av2.db","graphite"))
 ## Install a package 'kogo'
 install_github("statsun78/kogo")
 
-## Install a package 'pclgot' 
+## Install a package 'pclogit' 
 install_github("statsun78/pclogit")
 ```
 
