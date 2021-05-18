@@ -32,6 +32,7 @@ For _macOS_ users,
 
 ### Install R packages
 ```
+## Install 7 packages
 install.packages(c("glmnet","gglasso","SGL","igraph"))
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocMananer")
