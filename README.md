@@ -23,6 +23,7 @@ For _Windows_ users,
 ```
 writeLines('PATH="${RTOOLS40_HOME}\\usr\\bin;${PATH}"', con = "~/.Renviron")
 ```
+2. Restart R session.
 
 For _macOS_ users,
 
@@ -44,7 +45,9 @@ install_github("statsun78/pclogit")
 
 ### Load R packages
 ```
-## Load the two packages below. If there are no errors, you are all set.
+### Load the two packages below. 
+``` 
 library(kogo)
 library(pclogit)
 ``` 
+### If there are no errors, you are all set.
