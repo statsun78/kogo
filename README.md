@@ -1,6 +1,6 @@
 # kogo
-2018 KOGO statistical genetics workshop
-(6. Multi-omics Data Analysis by Hokeun Sun)
+2021 KOGO statistical genetics workshop
+(12. Multi-omics Data Analysis Part 2. by Hokeun Sun)
 
 ## Installation
 You first need to install:
@@ -13,19 +13,16 @@ You first need to install:
 ```
 ## Install R packages 'devtools'
 install.packages("devtools")
+library(devtools)
 ```
 
 ### Install development tools
 For _Windows_ users,
 
 1. Install [Rtools](https://cran.r-project.org/bin/windows/Rtools/).
-2. Restart R session.
-3. Run the following code in R command line (if R version 3.5.x):
-```r
-library(devtools)
-assignInNamespace("version_info", c(devtools:::version_info, list("3.5" = list(version_min = "3.3.0", version_max = "99.99.99", path = "bin"))), "devtools")
 ```
-  (If you have installed R version 3.4.x on your machine, Step 3 is __not__ necessary.)
+writeLines('PATH="${RTOOLS40_HOME}\\usr\\bin;${PATH}"', con = "~/.Renviron")
+```
 
 For _macOS_ users,
 
@@ -34,31 +31,20 @@ For _macOS_ users,
 
 ### Install R packages
 ```
+install.packages(c("glmnet","gglasso","SGL","igraph"))
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocMananer")
+BiocManager::install(c("ALL","hgu95av2.db","graphite"))
+
 ## Install R package 'kogo'
-## The 'kogo' package contains 'glmnet', 'SGL', 'gglasso'
 install_github("statsun78/kogo")
 
-## Install R packages 'pclgot' and 'VennDiagram'
+## Install R packages 'pclgot' 
 install_github("statsun78/pclogit")
-install.packages("VennDiagram")
-
-## Install Bioconductor R packages
-source("http://www.bioconductor.org/biocLite.R")
-biocLite("golubEsets")
-biocLite("bit")
-biocLite("AnnotationDbi")
-biocLite("hu6800.db")
-biocLite("qvalue")
-```
 
 ### Load R packages
 ```
-## Load the seven packages below. If there are no errors, you are all set.
+## Load the two packages below. If there are no errors, you are all set.
 library(kogo)
 library(pclogit)
-library(VennDiagram)
-library(golubEsets)
-library(hu6800.db)
-library(AnnotationDbi)
-library(qvalue)
 ``` 
