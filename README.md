@@ -1,6 +1,6 @@
 # kogo
 2021 KOGO statistical genetics workshop
-(12. Multi-omics Data Analysis Part 2) by Hokeun Sun
+(12. Multi-omics Data Analysis Part II.) by Hokeun Sun
 
 ## Installation
 You first need to install:
