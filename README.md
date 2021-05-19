@@ -25,6 +25,6 @@ library(devtools)
 * ### Installing `kogo` and `pclogit`
 ```
 install_github("statsun78/kogo")
-isntall_github("statsun78/pclogit")
+install_github("statsun78/pclogit")
 ```
 
