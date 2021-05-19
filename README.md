@@ -26,7 +26,19 @@ library(devtools)
 ```
 install_github("statsun78/kogo")
 install_github("statsun78/pclogit")
-load(kogo)
-load(pclogit)
+library(kogo)
+library(pclogit)
 ```
 If there are _no errors_, you are all set.
+
+* ### Another way to install `kogo` and `pclogit`
+```
+install.packages("https://github.com/statsun78/kogo/raw/master/download/kogo_0.2.1.zip", repos=NULL)
+install.packages("https://github.com/statsun78/kogo/raw/master/download/pclogit_0.3.1.zip", repos=NULL)
+library(kogo)
+library(pclogit)
+```
+
+
+
+
