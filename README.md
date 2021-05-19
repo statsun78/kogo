@@ -4,7 +4,7 @@
 
 ## Installation (Windows only)
 1. Downlaod and install the latest version of [R](https://cran.r-project.org/bin/windows/base/)
-2. Downlaod and install the latest version of [Rtools](https://cran.r-project.org/bin/windows/Rtools/)
+2. Downlaod and install the latest version of [Rtools](https://cran.r-project.org/bin/windows/Rtools/) (Don't forget putting Rtools on the PATH.)
 3. Install three `bioconductor` packages
 4. Install an R package `devtools`
 6. Install the packages `kogo` and `pclogit`
