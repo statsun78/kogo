@@ -26,5 +26,7 @@ library(devtools)
 ```
 install_github("statsun78/kogo")
 install_github("statsun78/pclogit")
+load(kogo)
+load(pclogit)
 ```
-
+If there are _no errors_, you are all set.
