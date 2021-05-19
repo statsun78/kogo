@@ -9,7 +9,7 @@
 4. Install an R package `devtools`
 6. Install the packages `kogo` and `pclogit`
 
-### installing 3 bioconductor packages
+### * installing 3 bioconductor packages
 ```
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
