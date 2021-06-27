@@ -40,7 +40,7 @@ library(pclogit)
 ```
 
 * ### Installation `Rtools' for Mac Users
-  https://github.com/rmacoslib/r-macos-rtools) for Mac users 
+  https://github.com/rmacoslib/r-macos-rtools for Mac users 
 
 
 
