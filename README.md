@@ -37,6 +37,8 @@ install.packages("https://github.com/statsun78/kogo/raw/master/download/pclogit_
 library(pclogit)
 ```
 
+## Installation Rtools for Mac Users
+[Rtools](https://github.com/rmacoslib/r-macos-rtools) for Mac users 
 
 
 
