@@ -31,13 +31,15 @@ library(pclogit)
 ```
 If there are _no errors_, you are all set.
 
+## Other Installation 
+
 * ### Another way to install `pclogit`
 ```
 install.packages("https://github.com/statsun78/kogo/raw/master/download/pclogit_0.3.1.zip", repos=NULL)
 library(pclogit)
 ```
 
-## Installation Rtools for Mac Users
+* ### Installation `Rtools' for Mac Users
 [Rtools](https://github.com/rmacoslib/r-macos-rtools) for Mac users 
 
 
