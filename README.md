@@ -33,14 +33,14 @@ If there are _no errors_, you are all set.
 
 ## Other Installation 
 
-* ### Another way to install `pclogit`
+* ### Another way to install `pclogit` (Windows only)
 ```
 install.packages("https://github.com/statsun78/kogo/raw/master/download/pclogit_0.3.1.zip", repos=NULL)
 library(pclogit)
 ```
 
 * ### Installation `Rtools' for Mac Users
-  https://github.com/rmacoslib/r-macos-rtools for Mac users 
+  https://github.com/rmacoslib/r-macos-rtools 
 
 
 
