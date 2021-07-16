@@ -2,6 +2,9 @@
 2021 KOGO statistical genetics workshop
 (Session 12. Multi-omics data analysis, part II)
 
+## Lecture Note
+[Lecture]()
+
 ## Installation (Windows only)
 1. Download and install the latest version of [R](https://cran.r-project.org/bin/windows/base/)
 2. Download and install the latest version of [Rtools](https://cran.r-project.org/bin/windows/Rtools/) (Don't forget putting Rtools on the PATH.)
