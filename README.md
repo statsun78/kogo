@@ -3,7 +3,7 @@
 (Session 12. Multi-omics data analysis, part II)
 
 ## Lecture Note
-[Lecture]()
+[lecture_note.pdf](https://github.com/statsun78/kogo/blob/master/download/lecture_note.pdf)
 
 ## Installation (Windows only)
 1. Download and install the latest version of [R](https://cran.r-project.org/bin/windows/base/)
