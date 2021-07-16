@@ -2,10 +2,10 @@
 2021 KOGO statistical genetics workshop
 (Session 12. Multi-omics data analysis, part II)
 
-## Lecture Note
+## 1. Lecture Note
 [lecture_note.pdf](https://github.com/statsun78/kogo/blob/master/download/lecture_note.pdf)
 
-## Installation (Windows only)
+## 2. Installation (Windows only)
 1. Download and install the latest version of [R](https://cran.r-project.org/bin/windows/base/)
 2. Download and install the latest version of [Rtools](https://cran.r-project.org/bin/windows/Rtools/) (Don't forget putting Rtools on the PATH.)
 3. Install 3 bioconductor packages
@@ -34,7 +34,7 @@ library(pclogit)
 ```
 If there are _no errors_, you are all set.
 
-## Other Installation 
+## 3. Other Installation 
 
 * ### Another way to install `pclogit` (Windows only)
 ```
