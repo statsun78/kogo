@@ -8,8 +8,8 @@
 ## 2. Installation Steps
 
 1. Download and install the latest version of R 
-* ### For Windows users, [R](https://cran.r-project.org/bin/windows/base/)
-* ### For Mac users, [R](https://cloud.r-project.org/bin/macosx/) 
+* For Windows users, [R](https://cran.r-project.org/bin/windows/base/)
+* For Mac users, [R](https://cloud.r-project.org/bin/macosx/) 
 
 2.  Install an R package `devtools`
 ```
@@ -24,7 +24,7 @@ library(kogo)
 ```   
 
 ## 3. Auxiliary materials 
-Install an R package `pclogit' [pclogit](https://github.com/statsun78/pclogit)
+Install an R package [pclogit](https://github.com/statsun78/pclogit)
 
-It is no necessary to install an R package `pclogit', but it will be shortly discussed in class. 
+It is not necessary to install an R package `pclogit', but it will be shortly discussed in class. 
 
