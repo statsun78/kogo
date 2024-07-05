@@ -26,5 +26,6 @@ library(kogo)
 ## 3. Auxiliary materials 
 Install an R package [pclogit](https://github.com/statsun78/pclogit)
 
-It is not necessary to install an R package `pclogit', but it will be shortly discussed in class. 
+An R package `pclogit' will be shortly discussed in class, so it is not really necessary to install it. 
+
 
