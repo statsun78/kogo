@@ -3,7 +3,7 @@
 (Session 7. Multi-omics data analysis, part II)
 
 ## 1. Lecture Note
-[lecture_note.pdf](https://github.com/statsun78/kogo/blob/main/lecture_note.pdf)
+[lecture_note.pdf]
 
 ## 2. Installation Steps
 
