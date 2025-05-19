@@ -1,6 +1,6 @@
 # kogo
-2024 KOGO statistical genetics workshop
-(Session 7. Multi-omics data analysis, part II)
+2025 KOGO statistical genetics workshop
+(Session 16. Analysis of omics big data using machine learning techniques, part II)
 
 ## 1. Lecture Note
 [lecture_note.pdf]
