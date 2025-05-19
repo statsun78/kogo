@@ -1,11 +1,10 @@
 Package: kogo
 Type: Package
-Title: 2024 KOGO statistical genetics workshop pacakge
-Version: 0.4.0
+Title: 2025 KOGO statistical genetics workshop pacakge
+Version: 0.4.1
 Author: Hokeun Sun
 Maintainer: Hokeun Sun <hsun@pusan.ac.kr>
-Description:  This package is for 2024 KOGO statistical genetics workshop (Session 7. Multi-omics data analysis, part 2). 
- The package includes Brain cancer gene expression data and 27K DNA methylation ovarian cancer data.
+Description:  This package is for 2025 KOGO statistical genetics workshop (Session 16. Analysis of Omics Big Data using Machine Learning Techniques, part 2). The package includes Heart data, Brain cancer gene expression data and 27K DNA methylation ovarian cancer data.
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
