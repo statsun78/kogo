@@ -3,10 +3,10 @@
 
 (Session 16. Analysis of omics big data using machine learning techniques, part II)
 
-## 1. Lecture Note
+## 1. Lecture note
 [lecture_note.pdf]
 
-## 2. Installation Steps
+## 2. Installation steps
 
 1. Download and install the latest version of R 
 * For Windows users, [R](https://cran.r-project.org/bin/windows/base/)
