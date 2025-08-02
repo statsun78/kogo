@@ -4,7 +4,7 @@
 (Session 16. Analysis of omics big data using machine learning techniques, part II)
 
 ## 1. Lecture note
-[lecture.pdf](https://github.com/statsun78/kogo/blob/main/download/lecture.pdf)
+[lecture.pdf]
 
 ## 2. Installation steps
 
