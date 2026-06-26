@@ -20,7 +20,7 @@ BiocManager::install("limma")
 library(limma)
 ```
 
-3.  Install an R package `remotes` and `MKmisc' from CRAN
+3.  Install an R package `remotes` and  `MKmisc` from CRAN
 ```
 install.packages("remotes")
 install.packages("MKmisc")
