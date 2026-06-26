@@ -12,7 +12,7 @@
 * For Windows users, [R](https://cran.r-project.org/bin/windows/base/)
 * For Mac users, [R](https://cloud.r-project.org/bin/macosx/) 
 
-2. Install an R package 'limma' from Bioconductor
+2. Install an R package `limma' from Bioconductor
 ```
 if (!require("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
