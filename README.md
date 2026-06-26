@@ -1,7 +1,7 @@
 # KOGO
-2025 KOGO statistical genetics workshop
+2026 KOGO statistical genetics workshop
 
-(Session 16. Analysis of omics big data using machine learning techniques, part II)
+(Session 13. Genetic Association Study using Penalized Regression)
 
 ## 1. Lecture note
 [lecture.pdf]
@@ -12,15 +12,23 @@
 * For Windows users, [R](https://cran.r-project.org/bin/windows/base/)
 * For Mac users, [R](https://cloud.r-project.org/bin/macosx/) 
 
-2.  Install an R package `devtools`
+2. Install an R package 'limma' from Bioconductor
 ```
-install.packages("devtools")
-library(devtools)
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install("limma")
+library(limma)
 ```
 
-3. Install an R package `kogo`
+3.  Install an R package `remotes` and `MKmisc' from CRAN
 ```
-install_github("statsun78/kogo")
+install.packages("remotes")
+install.packages("MKmisc")
+```
+
+4. Install an R package `kogo`
+```
+remotes::install_github("statsun78/kogo")
 library(kogo)
 ```   
 
