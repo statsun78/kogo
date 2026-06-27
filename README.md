@@ -30,6 +30,7 @@ install.packages("MKmisc")
 ```
 remotes::install_github("statsun78/kogo")
 library(kogo)
+library(MKmisc)
 ```   
 
 ## 3. Auxiliary materials 
