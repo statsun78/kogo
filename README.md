@@ -4,7 +4,7 @@
 (Session 13. Genetic Association Study using Penalized Regression)
 
 ## 1. Lecture note
-[lecture.pdf]
+Please download the lecture note at [https://www.kogo-edu.or.kr](https://www.kogo-edu.or.kr).
 
 ## 2. Installation steps
 
